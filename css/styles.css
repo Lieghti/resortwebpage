@@ -1,11 +1,18 @@
 h1 {
-  font-size: 50px;
+  color: blue;
   text-align: center;
 }
+
 h2 {
-  font-size: 30px;
-  text-align: center;
-}
-ul {
   font-style: italic;
+  text-align: center;
+  color: teal;
+}
+
+p {
+  color: gray;
+}
+
+body {
+  background-color: skyblue;
 }
